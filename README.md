@@ -5,10 +5,10 @@
   <br/>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilms0730&show_icons=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=gilms0730&show_icons=true&bg_color=0D0D0D" width=56% />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilms0730&layout=donut" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilms0730&layout=donut&bg_color=0D0D0D" width=38% />
 </a>
 <div align="left">
     <img src="./profile-3d-contrib/profile-night-view.svg" width="95%" />
