@@ -11,5 +11,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilms0730&layout=donut" width=38% />
 </a>
 <div align="left">
-    <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+    <img src="./profile-3d-contrib/profile-night-view.svg" width="95%" />
 </div> 
