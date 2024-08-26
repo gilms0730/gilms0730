@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilms0730&layout=donut&bg_color=20232a&&text_color=fff&hide_border=true" width=38% />
 </a>
 <div align="left">
-    <img src="./profile-3d-contrib/profile-gitblock.svg" width="95%" />
+    <img src="./profile-3d-contrib/profile-night-gitblock.svg" width="95%" />
 </div>
 <br>
 <br>
