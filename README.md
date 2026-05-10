@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=gilms0730&fontColor=ffffff&&color=0:4CA0FF,100:004A9E&type=venom&stroke=222222&strokeWidth=1)            
   📔 hello! this is my portfolio 
   <br/>
-  [portfolio](https://www.notion.so/)
+  [portfolio]
   <br/>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
